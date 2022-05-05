@@ -1,6 +1,6 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
-const Services = () => {
+const Produtos = () => {
   return (
     <>
     <Helmet>
@@ -20,4 +20,4 @@ const Services = () => {
   );
 };
 
-export default Services;
+export default Produtos;

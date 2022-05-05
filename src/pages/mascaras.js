@@ -1,10 +1,10 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
-const Contato = () => {
+const Mascaras = () => {
   return (
     <>
     <Helmet>
-      <title> Contato - IB IMPORTS </title>
+      <title> Máscaras - IB IMPORTS </title>
     </Helmet>
     <div
       style={{
@@ -14,11 +14,11 @@ const Contato = () => {
         height: '90vh'
       }}
     >
-      <h1>Contato</h1>
+      <h1>Máscaras</h1>
     </div>
     </>
   );
  
 };
 
-export default Contato;
+export default Mascaras;
