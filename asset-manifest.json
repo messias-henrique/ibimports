@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/http;//ibimports.github.io/static/css/main.9da0a5ac.css",
+    "main.js": "/http;//ibimports.github.io/static/js/main.4c80321e.js",
+    "static/js/787.dd4029b4.chunk.js": "/http;//ibimports.github.io/static/js/787.dd4029b4.chunk.js",
+    "static/media/logo.png": "/http;//ibimports.github.io/static/media/logo.a03408adda9f9284975f.png",
+    "index.html": "/http;//ibimports.github.io/index.html",
+    "static/media/font-awesome.less": "/http;//ibimports.github.io/static/media/font-awesome.ab44c36e261fb2fce05e.less",
+    "main.9da0a5ac.css.map": "/http;//ibimports.github.io/static/css/main.9da0a5ac.css.map",
+    "main.4c80321e.js.map": "/http;//ibimports.github.io/static/js/main.4c80321e.js.map",
+    "787.dd4029b4.chunk.js.map": "/http;//ibimports.github.io/static/js/787.dd4029b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9da0a5ac.css",
+    "static/js/main.4c80321e.js"
+  ]
+}
